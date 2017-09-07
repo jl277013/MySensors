@@ -1,0 +1,39 @@
+{
+  "packages": [
+    {
+      "name": "mysensors",
+      "maintainer": "Jeff Lewis",
+      "websiteURL": "https://github.com/jl277013/MySensors",
+      "email": "registergithub@wickieworld.com",
+      "help": {
+        "online": "https://github.com/jl277013/MySensors"
+      },
+      "platforms": [
+        {
+          "name": "MySensors",
+          "architecture": "avr",
+          "version": "0.0.1",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/jl277013/MySensors"
+          },
+          "url": "https://github.com/jl277013/MySensors/raw/master/mysensors-0.0.1.zip",
+          "archiveFileName": "mysensors-0.0.1.zip",
+          "checksum": "SHA-256:981283A3BEBFF004AB7166784962D0B34BD4408391A8F05207A0CF8B6E18CC88",
+          "size": "151",
+          "boards": [
+            {"name": "MySensors OTA Update"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}

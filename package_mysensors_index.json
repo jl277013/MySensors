@@ -12,7 +12,7 @@
         {
           "name": "MySensors",
           "architecture": "avr",
-          "version": "0.0.5",
+          "version": "0.0.6",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/jl277013/MySensors"

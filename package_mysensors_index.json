@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/jl277013/MySensors/raw/master/mysensors.zip",
           "archiveFileName": "mysensors.zip",
-          "checksum": "SHA-256:ef10dd7e3d4bfe8e96297a9f7f90fabbd743ad83cf0219da2891af70526cae26",
+          "checksum": "SHA-256:ae7ce64d6855666c5476f996b98abdd8b30dc07bc7f49dae90062dbf6076f761",
           "size": "151",
           "boards": [
             {"name": "MySensors OTA Update"}

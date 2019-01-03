@@ -12,14 +12,14 @@
         {
           "name": "MySensors",
           "architecture": "avr",
-          "version": "0.0.91",
+          "version": "0.0.92",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/jl277013/MySensors"
           },
           "url": "https://github.com/jl277013/MySensors/raw/master/mysensors.zip",
           "archiveFileName": "mysensors.zip",
-          "checksum": "SHA-256:5ac0ada63a994add833dc33aabec5d77fe534a8f74e5e20697a4e45c740904be",
+          "checksum": "SHA-256:742b788986cf8464fa626f12163cf467d617c4aacdb2d3124f8281fbb006fce3",
           "size": "151",
           "boards": [
             {"name": "MySensors OTA Update"}
